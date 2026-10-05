@@ -1,0 +1,30 @@
+name: CORSair Integrity & Quality Checks
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate Application Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Check Essential Files Exist
+        run: |
+          test -f CORSair.html || (echo "CORSair.html missing" && exit 1)
+          test -f index.html || (echo "index.html missing" && exit 1)
+          test -f README.md || (echo "README.md missing" && exit 1)
+          test -f LICENSE || (echo "LICENSE missing" && exit 1)
+          echo "All essential files verified."
+
+      - name: HTML Structure Check
+        run: |
+          grep -q "<!DOCTYPE html>" CORSair.html || (echo "Invalid HTML doctype" && exit 1)
+          grep -q "CORSair v" CORSair.html || (echo "CORSair title missing" && exit 1)
+          echo "HTML structure verified successfully."
