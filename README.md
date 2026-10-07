@@ -31,6 +31,10 @@
 
 </div>
 
+<p align="center">
+  <img src="corsair_dashboard.png" alt="CORSair Tactical Dashboard" width="100%">
+</p>
+
 ## 📌 Executive Summary
 
 **CORSair** is an advanced, client-side Cross-Origin Resource Sharing (CORS) security research and vulnerability exploitation suite built for penetration testers, security auditors, and bug bounty hunters.
