@@ -21,6 +21,7 @@
 [![Medium Article](https://img.shields.io/badge/Medium-Deep_Dive_Writeup-black.svg?style=for-the-badge&logo=medium)](https://pratik-khairnar-sec.medium.com/)
 [![X Thread](https://img.shields.io/badge/X-Official_Thread-000000.svg?style=for-the-badge&logo=x)](https://x.com/PratikSec/status/2108584870293451190)
 [![Portfolio Sandbox](https://img.shields.io/badge/Live_Sandbox-Portfolio_Demo-38bdf8.svg?style=for-the-badge&logo=shield)](https://pratik-khairnar-sec.github.io/portfolio/)
+[![Discord](https://img.shields.io/badge/Discord-pratik.khairnar.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1531910259080167494)
 
 [Launch Web App](https://pratik-khairnar-sec.github.io/CORSair/) •
 [Features](#-key-features) •
