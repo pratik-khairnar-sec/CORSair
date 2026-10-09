@@ -18,6 +18,8 @@
 [![Zero Dependencies](https://img.shields.io/badge/Zero_Install-Single_HTML-brightgreen.svg?style=for-the-badge&logo=html5&logoColor=white)](#-zero-install-quick-start)
 [![Telegram Integration](https://img.shields.io/badge/Telegram_Bot-Instant_Delivery-29b6f6.svg?style=for-the-badge&logo=telegram&logoColor=white)](#-instant-telegram-exfiltration)
 [![Designed For](https://img.shields.io/badge/Audience-Bug_Bounty_%26_Pentesting-red.svg?style=for-the-badge&logo=target)](https://github.com/pratik-khairnar-sec)
+[![Medium Article](https://img.shields.io/badge/Medium-Deep_Dive_Writeup-black.svg?style=for-the-badge&logo=medium)](https://pratik-khairnar-sec.medium.com/)
+[![X Thread](https://img.shields.io/badge/X-Official_Thread-000000.svg?style=for-the-badge&logo=x)](https://x.com/PratikSec/status/2108584870293451190)
 
 [Launch Web App](https://pratik-khairnar-sec.github.io/CORSair/) •
 [Features](#-key-features) •
